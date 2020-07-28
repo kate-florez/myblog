@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: media2
+  label: Media2
+  match: "**/*"
+  read_only: false
 - type: directory
   path: media
   label: Media
