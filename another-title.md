@@ -1,6 +1,6 @@
 ---
-layout: Hello New Page
-title: Another Title
+layout: page
+title: New Title
 permalink: "/new/"
 
 ---
